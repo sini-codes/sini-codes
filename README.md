@@ -16,7 +16,7 @@ I am Sini and I do programming for a living!
    <img src="./img/ori_and_the_will_of_the_wisps_switch.jpg" height="300em" alt="Ori and the Will of the Wisps" />
    </a>
 
-   <a href="https://www.youtube.com/watch?v=-QFOJ_L6yFM">
+   <a href="https://www.youtube.com/watch?v=l3Ozk5iBuH4">
    <img src="./img/no_rest_for_the_wicked.jpg" height="300em" alt="No Rest for the Wicked" />
    </a>
 </div>
